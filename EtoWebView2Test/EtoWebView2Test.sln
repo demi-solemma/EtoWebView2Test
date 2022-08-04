@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtoWebView2Test", "EtoWebView2Test\EtoWebView2Test.csproj", "{60C2EFD7-D910-43E1-A81B-341F8B8540BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtoRevit", "EtoRevit\EtoRevit.csproj", "{BF403EB1-4A8D-4CC3-B918-A84318E266BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{60C2EFD7-D910-43E1-A81B-341F8B8540BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60C2EFD7-D910-43E1-A81B-341F8B8540BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60C2EFD7-D910-43E1-A81B-341F8B8540BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF403EB1-4A8D-4CC3-B918-A84318E266BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF403EB1-4A8D-4CC3-B918-A84318E266BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF403EB1-4A8D-4CC3-B918-A84318E266BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF403EB1-4A8D-4CC3-B918-A84318E266BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

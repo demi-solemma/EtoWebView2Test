@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>EtoRevitWebView2Test</Name>
+		<Assembly>EtoRevit.dll</Assembly>
+		<AddInId>460E90D1-5889-492E-A13C-C2FF9CA40054</AddInId>
+		<FullClassName>EtoRevit.HelloEtoApplication</FullClassName>
+		<VendorId>S</VendorId>
+		<VendorDescription>SSS</VendorDescription>
+	</AddIn>
+</RevitAddIns>
